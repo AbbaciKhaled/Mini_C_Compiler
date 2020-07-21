@@ -1,0 +1,24 @@
+int S1,S2,M1promo
+
+int M1promo1 = 2019
+M1_promo      = 2019
+int M1pr      = 2019
+
+# @Test Compilation IV - IL, 2018-2019
+
+M1begin = 2016
+ M1pr18 = M1begin + 2
+M1pr19  = M1pr18 + 1
+
+if (M1promo != M1pr19):
+	M1promo = 0
+elif (M1promo==M1pr19):
+	if (M1promo == 2016):
+		Firstpr = 1
+	else:
+		Firstpr = 0
+else:
+	if (M1promo > M1pr19):
+		M1pr19 = 1
+
+M1pr19m = S1 * (1/2) + S2 * (1/2)
